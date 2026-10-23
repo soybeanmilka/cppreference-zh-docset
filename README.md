@@ -1,5 +1,3 @@
-# BUILD
-
 # 中文 cppreference → Zeal / Dash docset 生成器
 
 把 cppreference 中文离线书（`html-book-*.tar.xz`）转换成 **Zeal / Dash / Velocity** 能装的 `.docset`。
